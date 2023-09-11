@@ -1,0 +1,2 @@
+# TestowanieGita
+repozytorium do testów
